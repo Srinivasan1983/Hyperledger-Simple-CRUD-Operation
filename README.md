@@ -13,14 +13,12 @@ Just for the fun of it really. I'm fascinated with blockchain technology and wha
 
 Implemented (at least partially)
 
-Hyperledger Fabric Development Environment
-
-Chaincode Developed in Java
-
-Tested with REST Api
+   Hyperledger Fabric Development Environment
+   Chaincode Developed in Java
+   Tested with REST Api
 
 License
 
-Released in the public domain. 
+   Released in the public domain. 
 
 I would appreciate credit where possible. :)
